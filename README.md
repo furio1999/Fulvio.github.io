@@ -1,2 +1,2 @@
-# Fulvio Sanguigni.github.io
+# FulvioSanguigni.github.io
 my personal page
