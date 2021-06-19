@@ -28,4 +28,5 @@ Little Trial?
       "position": "right"
     }
 </script> -->
-<script src="https://embed.so/js/embed.js"></script>
+<!-- <script src="https://embed.so/js/embed.js"></script>
+ -->
