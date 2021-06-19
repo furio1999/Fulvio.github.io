@@ -16,7 +16,7 @@ https://www.uniroma1.it ).
 I have a B.Sc. in Information Engineering and I am pursuing a Master Degree in Artificial Intelligence and robotics.
 
 
-<hr>
+<!--hr>
 
 Little Trial?
 
