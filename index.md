@@ -13,7 +13,7 @@ redirect_from:
 Welcome to my blog. My name is Fulvio and I'm a student at [Sapienza University of Rome](
 https://www.uniroma1.it ).
 
-I have a B.Sc. in Information Engineering and I am pursuing a Master Degree in Artificial Intelligence and robotics.
+I have a B.Sc. in Information Engineering and I am pursuing a Master Degree in [Artificial Intelligence and robotics] (https://corsidilaurea.uniroma1.it/en/corso/2020/30431/home).
 
 
 <!--hr>
