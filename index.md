@@ -10,7 +10,7 @@ redirect_from:
 
 <p style="font-size:0.5em">This is a trial</p>
 
-Welcome to my blog. My name is Fulvio and I'm a student at Sapienza University [Sapienza](
+Welcome to my blog. My name is Fulvio and I'm a student at [Sapienza University of Rome](
 https://www.uniroma1.it ).
 
 I have a B.Sc. in Information Engineering and I am pursuing a Master Degree in Artificial Intelligence and robotics.
