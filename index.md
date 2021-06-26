@@ -8,7 +8,7 @@ redirect_from:
     - /about.html
 ---
 
-<p style="font-size:0.5em">This is a trial</p>
+<p style="font-size:0.5em">This is not the definitive version yet</p>
 
 Welcome to my blog. My name is Fulvio and I'm a student at [Sapienza University of Rome](
 https://www.uniroma1.it ).
